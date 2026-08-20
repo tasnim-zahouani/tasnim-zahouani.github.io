@@ -31,11 +31,17 @@ pipeline de traitement Python, et interface de monitoring en direct.
 
 ### Application Web Fullstack — Pipeline CI/CD
 Authentification, CRUD, API Google Places, tests automatisés (Pest), CI/CD via GitHub Actions.
+
 **Stack :** PHP, Laravel, PostgreSQL, GitHub Actions
 
+### Messagerie multi-clients — ChatService
+Application de messagerie en Java avec gestion de comptes utilisateurs multiples 
+**Stack :** Java, Maven, CRUD
+[→ Voir le repo](https://github.com/Flora1323/projet-chatservice)
 
 ### Refonte de base de données — Industrie musicale
 Base de données relationnelle normalisée (3NF), triggers, vues, contraintes d'intégrité.
+
 **Stack :** SQL, MySQL, UML
 
 
