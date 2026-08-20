@@ -22,7 +22,7 @@ pipeline de traitement Python, et interface de monitoring en direct.
 
 **Stack :** C++, Python, PySide6, RTKLIB, Jupyter
 
-<img width="1828" height="935" alt="SD (1" src="https://github.com/user-attachments/assets/c4b038c7-0745-49af-bf12-88fa64c33aa1" />
+<img src="https://github.com/user-attachments/assets/c4b038c7-0745-49af-bf12-88fa64c33aa1" alt="Diagramme du flux de données" style="max-width: 100%; height: auto;">
 
 
 ---
