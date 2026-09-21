@@ -7,6 +7,15 @@ Parcours hybride SHS-Tech · Recherche un stage de fin d'études (Software Engin
 
 ---
 
+## ***!!Currently building!!***. . . FastAPI Wrapper conteneurised w/ Docker
+*Personal project*
+
+[→ Voir le repo](https://github.com/tasnim-zahouani/FastAPI-wrapper)
+
+**goal**: get familiar with Docker, learn through API REST, build up from the skills learned from the Laravel+PHP project.
+
+---
+
 ## Projet — Real-Time Data Pipeline & Sensor Fusion System
 
 *Software Engineering Intern, Université Gustave Eiffel — Laboratoire EASE, juin-juillet 2026*
